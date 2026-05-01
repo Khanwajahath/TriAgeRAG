@@ -1,4 +1,4 @@
-# TriAgeRAG 🚑📄
+# TriAgeRAG 📄
 
 ## 📌 Overview
 
